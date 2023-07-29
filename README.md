@@ -1,2 +1,4 @@
 # resume.zachnewman.me
-My resume sit created as part of the Cloud Resume Challenge
+My resume site created as part of the Cloud Resume Challenge.
+
+![Alt text](architecture.png)
